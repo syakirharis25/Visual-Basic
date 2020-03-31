@@ -29,12 +29,19 @@ Quora questions and answers website : https://www.quora.com <br />
 **_Visual Basic questions and answers by Quora_** <br />
 What is the toolbox in visual basic? by Quora : https://www.quora.com/What-is-the-toolbox-in-visual-basic <br />
 
+**_Visual Basic documentation by docs.microsoft.com_** <br />
+Declared Elements in Visual Basic : https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/declared-elements/
+
 <a name="shortcuts"></a>
 ## 3. Visual Basic shortcuts.
 
 **_Visual Basic Toolbox management_** <br />
 **[ Ctrl ]** + **[ Alt ]** + **[ X ]** : open Toolbox <br />
 **[ Esc ]** : exit Toolbox <br />
+
+**_Visual Basic element management_** <br />
+**[ Ctrl ]** + **[ C ]** : copy element <br />
+**[ Ctrl ]** + **[ V ]** : paste element <br />
 
 <a name="developers"></a>
 ## 4. Developers.
