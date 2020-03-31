@@ -21,6 +21,7 @@ The final release was version 6 in 1998 (now known simply as Visual Basic). On A
 ## 2. Official references websites.
 Microsoft official website : https://www.microsoft.com <br />
 Visual Basic 6.0 Resource Center : https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation?redirectedfrom=MSDN <br />
+Visual Studio by Microsoft : https://visualstudio.microsoft.com <br />
 
 <a name="developers"></a>
 ## 3. Developers.
