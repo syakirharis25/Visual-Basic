@@ -4,9 +4,10 @@ My works related to Visual Basic, an event-driven programming language from Micr
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Developers.](#developers)
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [Visual Basic shortcuts.](#shortcuts)
+4. [Developers.](#developers)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -22,12 +23,25 @@ Microsoft official website : https://www.microsoft.com <br />
 Visual Basic 6.0 Resource Center : https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6.0-documentation?redirectedfrom=MSDN <br />
 Visual Studio by Microsoft : https://visualstudio.microsoft.com <br />
 
+**_Visual Basic questions and answers websites_** <br />
+Quora questions and answers website : https://www.quora.com <br />
+
+**_Visual Basic questions and answers by Quora_** <br />
+What is the toolbox in visual basic? by Quora : https://www.quora.com/What-is-the-toolbox-in-visual-basic <br />
+
+<a name="shortcuts"></a>
+## 3. Visual Basic shortcuts.
+
+**_Visual Basic Toolbox management_** <br />
+**[ Ctrl ]** + **[ Alt ]** + **[ X ]** : open Toolbox <br />
+**[ Esc ]** : exit Toolbox <br />
+
 <a name="developers"></a>
-## 3. Developers.
+## 4. Developers.
 [ draft ]
 
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Visual-Basic.git
@@ -37,7 +51,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 draft
 ```
