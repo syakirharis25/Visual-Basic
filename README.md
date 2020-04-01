@@ -48,6 +48,9 @@ Dim statement (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-ba
 Type Conversion Functions (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/type-conversion-functions <br />
 Return Values for the CStr Function (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/return-values-for-the-cstr-function <br />
 
+**_Visual Basic related articles_** <br />
+CBool Function by oreilly.com : https://www.oreilly.com/library/view/vb-net-language/0596000928/re29.html <br />
+
 <a name="shortcuts"></a>
 ## 3. Visual Basic shortcuts.
 
