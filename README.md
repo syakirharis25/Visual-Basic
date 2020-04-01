@@ -46,6 +46,7 @@ Double Data Type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual
 Boolean Data Type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/boolean-data-type <br />
 Dim statement (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/dim-statement <br />
 Type Conversion Functions (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/type-conversion-functions <br />
+Return Values for the CStr Function (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/return-values-for-the-cstr-function <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Basic shortcuts.
