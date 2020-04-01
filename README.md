@@ -36,6 +36,7 @@ https://stackoverflow.com/questions/19593018/issue-with-visual-basic-me-hide-or-
 **_Visual Basic documentation by docs.microsoft.com_** <br />
 Declared Elements in Visual Basic : https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/declared-elements/ <br />
 String Functions (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/string-functions <br />
+Try...Catch...Finally Statement (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/try-catch-finally-statement <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Basic shortcuts.
