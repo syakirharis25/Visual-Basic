@@ -25,9 +25,13 @@ Visual Studio by Microsoft : https://visualstudio.microsoft.com <br />
 
 **_Visual Basic questions and answers websites_** <br />
 Quora questions and answers website : https://www.quora.com <br />
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 **_Visual Basic questions and answers by Quora_** <br />
 What is the toolbox in visual basic? by Quora : https://www.quora.com/What-is-the-toolbox-in-visual-basic <br />
+
+**_Visual Basic questions and answers by Stack Overflow_** <br />
+https://stackoverflow.com/questions/19593018/issue-with-visual-basic-me-hide-or-me-close <br />
 
 **_Visual Basic documentation by docs.microsoft.com_** <br />
 Declared Elements in Visual Basic : https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/declared-elements/ <br />
