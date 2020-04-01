@@ -44,6 +44,7 @@ Long data type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-b
 Decimal Data Type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/decimal-data-type <br />
 Double Data Type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/double-data-type <br />
 Boolean Data Type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/boolean-data-type <br />
+Dim statement (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/dim-statement <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Basic shortcuts.
