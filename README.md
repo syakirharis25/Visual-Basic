@@ -47,6 +47,7 @@ Boolean Data Type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visua
 Dim statement (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/dim-statement <br />
 Type Conversion Functions (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/type-conversion-functions <br />
 Return Values for the CStr Function (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/return-values-for-the-cstr-function <br />
+Quickstart: Create your first console app in Visual Studio with Visual Basic : https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-visual-basic-console?view=vs-2019 <br />
 
 **_Visual Basic related articles_** <br />
 CBool Function by oreilly.com : https://www.oreilly.com/library/view/vb-net-language/0596000928/re29.html <br />
