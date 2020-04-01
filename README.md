@@ -48,6 +48,7 @@ Dim statement (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-ba
 Type Conversion Functions (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/type-conversion-functions <br />
 Return Values for the CStr Function (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/return-values-for-the-cstr-function <br />
 Quickstart: Create your first console app in Visual Studio with Visual Basic : https://docs.microsoft.com/en-us/visualstudio/ide/quickstart-visual-basic-console?view=vs-2019 <br />
+CType Function (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/ctype-function <br />
 
 **_Visual Basic related articles_** <br />
 CBool Function by oreilly.com : https://www.oreilly.com/library/view/vb-net-language/0596000928/re29.html <br />
