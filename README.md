@@ -46,7 +46,7 @@ String Functions (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual
 
 <a name="developers"></a>
 ## 4. Developers.
-[ draft ]
+Derek Banas : https://github.com/newthinktank, https://twitter.com/NewThinkTank <br />
 
 <a name="github"></a>
 ## 5. GitHub notes.
