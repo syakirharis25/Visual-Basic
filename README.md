@@ -39,6 +39,11 @@ String Functions (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual
 Try...Catch...Finally Statement (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/try-catch-finally-statement <br />
 End Statement : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/end-statement <br />
 As Clause (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/as-clause <br />
+Integer data type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/integer-data-type <br />
+Long data type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/long-data-type <br />
+Decimal Data Type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/decimal-data-type <br />
+Double Data Type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/double-data-type <br />
+Boolean Data Type (Visual Basic) : https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/boolean-data-type <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Basic shortcuts.
